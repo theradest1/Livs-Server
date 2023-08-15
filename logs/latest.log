@@ -1,0 +1,22 @@
+[00:00:02] [Server thread/INFO]: [ShadowStar18: Set own game mode to Creative Mode]
+[00:06:09] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[00:06:09] [Server thread/INFO]: ShadowStar18 left the game
+[00:08:15] [User Authenticator #2/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[00:08:15] [Server thread/INFO]: ShadowStar18[/127.0.0.1:61603] logged in with entity id 7006 at (-339.6135099665644, 103.0, -304.7491512430342)
+[00:08:15] [Server thread/INFO]: ShadowStar18 joined the game
+[00:10:23] [Server thread/INFO]: [ShadowStar18: Set own game mode to Survival Mode]
+[00:10:27] [Server thread/INFO]: [ShadowStar18: Set own game mode to Spectator Mode]
+[00:10:57] [Server thread/INFO]: [ShadowStar18: Set own game mode to Creative Mode]
+[00:17:33] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[00:17:33] [Server thread/INFO]: ShadowStar18 left the game
+[00:23:08] [Server thread/INFO]: Stopping the server
+[00:23:08] [Server thread/INFO]: Stopping server
+[00:23:08] [Server thread/INFO]: Saving players
+[00:23:08] [Server thread/INFO]: Saving worlds
+[00:23:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:23:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:23:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:23:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:23:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:23:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:23:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
