@@ -1,22 +1,162 @@
-[00:00:02] [Server thread/INFO]: [ShadowStar18: Set own game mode to Creative Mode]
-[00:06:09] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[00:06:09] [Server thread/INFO]: ShadowStar18 left the game
-[00:08:15] [User Authenticator #2/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
-[00:08:15] [Server thread/INFO]: ShadowStar18[/127.0.0.1:61603] logged in with entity id 7006 at (-339.6135099665644, 103.0, -304.7491512430342)
-[00:08:15] [Server thread/INFO]: ShadowStar18 joined the game
-[00:10:23] [Server thread/INFO]: [ShadowStar18: Set own game mode to Survival Mode]
-[00:10:27] [Server thread/INFO]: [ShadowStar18: Set own game mode to Spectator Mode]
-[00:10:57] [Server thread/INFO]: [ShadowStar18: Set own game mode to Creative Mode]
-[00:17:33] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[00:17:33] [Server thread/INFO]: ShadowStar18 left the game
-[00:23:08] [Server thread/INFO]: Stopping the server
-[00:23:08] [Server thread/INFO]: Stopping server
-[00:23:08] [Server thread/INFO]: Saving players
-[00:23:08] [Server thread/INFO]: Saving worlds
-[00:23:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:23:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:23:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:23:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:23:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:23:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:23:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:32:05] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.22
+[01:32:05] [main/INFO]: Loading 80 mods:
+	- adorn 4.3.0+1.19.4
+	- architectury 8.2.89
+	- biomemakeover 1.19.4-1.9.5
+	   \-- taniwha 1.19.4-4.1.25
+	- cloth-config 10.1.105
+	   \-- cloth-basic-math 0.6.1
+	- creativecore 2.10.12
+	   \-- net_minecraftforge_eventbus 6.0.4
+	- emi 1.0.19+1.19.4+fabric
+	- fabric-api 0.87.0+1.19.4
+	   |-- fabric-api-base 0.4.28+737a6ee8f4
+	   |-- fabric-api-lookup-api-v1 1.6.29+504944c8f4
+	   |-- fabric-biome-api-v1 13.0.9+10ce000ff4
+	   |-- fabric-block-api-v1 1.0.8+e022e5d1f4
+	   |-- fabric-blockrenderlayer-v1 1.1.38+10ce000ff4
+	   |-- fabric-client-tags-api-v1 1.1.1+0eee1254f4
+	   |-- fabric-command-api-v1 1.2.31+f71b366ff4
+	   |-- fabric-command-api-v2 2.2.10+10ce000ff4
+	   |-- fabric-commands-v0 0.2.48+df3654b3f4
+	   |-- fabric-containers-v0 0.1.59+df3654b3f4
+	   |-- fabric-content-registries-v0 3.5.14+10ce000ff4
+	   |-- fabric-convention-tags-v1 1.5.3+6d727b51f4
+	   |-- fabric-crash-report-info-v1 0.2.17+aeb40ebef4
+	   |-- fabric-data-generation-api-v1 11.5.2+26f09d40f4
+	   |-- fabric-dimensions-v1 2.1.50+44c9c860f4
+	   |-- fabric-entity-events-v1 1.5.17+10ce000ff4
+	   |-- fabric-events-interaction-v0 0.6.1+4b6b93f0f4
+	   |-- fabric-events-lifecycle-v0 0.2.56+df3654b3f4
+	   |-- fabric-game-rule-api-v1 1.0.35+a1ccd7bff4
+	   |-- fabric-item-api-v1 2.1.21+10ce000ff4
+	   |-- fabric-item-group-api-v1 3.0.10+8400c67ef4
+	   |-- fabric-key-binding-api-v1 1.0.35+504944c8f4
+	   |-- fabric-keybindings-v0 0.2.33+df3654b3f4
+	   |-- fabric-lifecycle-events-v1 2.2.19+10ce000ff4
+	   |-- fabric-loot-api-v2 1.1.32+10ce000ff4
+	   |-- fabric-loot-tables-v1 1.1.36+9e7660c6f4
+	   |-- fabric-message-api-v1 5.1.5+53c11dadf4
+	   |-- fabric-mining-level-api-v1 2.1.44+10ce000ff4
+	   |-- fabric-model-loading-api-v1 1.0.2+3a1ea2f1f4
+	   |-- fabric-models-v0 0.4.1+a0255436f4
+	   |-- fabric-networking-api-v1 1.3.6+ae9c4c6af4
+	   |-- fabric-networking-v0 0.3.46+df3654b3f4
+	   |-- fabric-object-builder-api-v1 7.1.1+d63b52eaf4
+	   |-- fabric-particles-v1 1.1.1+86d48884f4
+	   |-- fabric-recipe-api-v1 1.0.13+10ce000ff4
+	   |-- fabric-registry-sync-v0 2.3.2+95ae8716f4
+	   |-- fabric-renderer-api-v1 2.4.2+90110d8df4
+	   |-- fabric-renderer-indigo 1.4.2+90110d8df4
+	   |-- fabric-renderer-registries-v1 3.2.42+df3654b3f4
+	   |-- fabric-rendering-data-attachment-v1 0.3.32+10ce000ff4
+	   |-- fabric-rendering-fluids-v1 3.0.25+10ce000ff4
+	   |-- fabric-rendering-v0 1.1.45+df3654b3f4
+	   |-- fabric-rendering-v1 2.1.5+10ce000ff4
+	   |-- fabric-resource-conditions-api-v1 2.3.3+10ce000ff4
+	   |-- fabric-resource-loader-v0 0.11.7+8400c67ef4
+	   |-- fabric-screen-api-v1 1.0.49+10ce000ff4
+	   |-- fabric-screen-handler-api-v1 1.3.25+10ce000ff4
+	   |-- fabric-sound-api-v1 1.0.11+10ce000ff4
+	   |-- fabric-transfer-api-v1 3.3.0+7bf81db9f4
+	   \-- fabric-transitive-access-wideners-v1 3.3.0+1b5f819af4
+	- fabric-language-kotlin 1.10.8+kotlin.1.9.0
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.9.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.9.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.9.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.9.0
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.21.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.7.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.7.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.1
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.1
+	- fabricloader 0.14.22
+	- farmersdelight 1.19.4-1.3.13
+	- ferritecore 5.2.0
+	- java 17
+	- krypton 0.2.2
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- lithium 0.11.1
+	- memoryleakfix 1.1.1
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.8
+	- minecraft 1.19.4
+	- mr_upgradable_backpack 1-v9.1
+	- phosphor 0.8.1
+	- seasons 2.2.1+1.19.4
+	- yet_another_config_lib_v3 3.1.0+1.19.4
+	   |-- com_twelvemonkeys_common_common-image 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_common_common-io 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_common_common-lang 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0-SNAPSHOT
+	   \-- yet_another_config_lib 2.5.1+1.19.4
+[01:32:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/lando/OneDrive/Documents/GitRepos/Livs-Server/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[01:32:06] [main/INFO]: Compatibility level set to JAVA_16
+[01:32:06] [main/INFO]: Compatibility level set to JAVA_17
+[01:32:06] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 2 override(s) found
+[01:32:06] [main/WARN]: Error loading class: net/minecraft/class_293 (java.lang.ClassNotFoundException: net/minecraft/class_293)
+[01:32:06] [main/WARN]: @Mixin target net.minecraft.class_293 was not found creativecore.fabric.mixins.json:VertexFormatMixin from mod creativecore
+[01:32:06] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[01:32:06] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[01:32:07] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[01:32:07] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[01:32:14] [main/INFO]: Registering C2S receiver with id biomemakeover:cl_complete_quest
+[01:32:14] [main/INFO]: Registering C2S receiver with id biomemakeover:update_dir_data
+[01:32:15] [main/INFO]: Compression will use Java, encryption will use Java
+[01:32:15] [main/INFO]: [Fabric Seasons] Trying to read config file...
+[01:32:15] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
+[01:32:15] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
+[01:32:15] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
+[01:32:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:32:15] [main/WARN]: xaerominimap:no_minimap missing from registry, but requested!
+[01:32:15] [main/WARN]: xaerominimap:no_minimap_harmful missing from registry, but requested!
+[01:32:15] [main/WARN]: xaerominimap:no_entity_radar missing from registry, but requested!
+[01:32:15] [main/WARN]: xaerominimap:no_entity_radar_harmful missing from registry, but requested!
+[01:32:15] [main/WARN]: xaerominimap:no_waypoints missing from registry, but requested!
+[01:32:15] [main/WARN]: xaerominimap:no_waypoints_harmful missing from registry, but requested!
+[01:32:15] [main/WARN]: xaerominimap:no_cave_maps missing from registry, but requested!
+[01:32:15] [main/WARN]: xaerominimap:no_cave_maps_harmful missing from registry, but requested!
+[01:32:15] [main/WARN]: xaeroworldmap:no_world_map missing from registry, but requested!
+[01:32:15] [main/WARN]: xaeroworldmap:no_world_map_harmful missing from registry, but requested!
+[01:32:15] [main/WARN]: xaeroworldmap:no_cave_maps missing from registry, but requested!
+[01:32:15] [main/WARN]: xaeroworldmap:no_cave_maps_harmful missing from registry, but requested!
+[01:32:15] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[01:32:16] [main/INFO]: Loaded 10 recipes
+[01:32:16] [main/INFO]: Loaded 1765 advancements
+[01:32:16] [main/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[01:32:17] [main/INFO]: Applied 342 biome modifications to 63 of 63 new biomes in 18.31 ms
+[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of plains
+[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of savanna
+[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of snowy
+[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of taiga
+[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of desert
+[01:32:17] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[01:32:17] [Server thread/INFO]: Loading properties
+[01:32:17] [Server thread/INFO]: Default game type: SURVIVAL
+[01:32:17] [Server thread/INFO]: Generating keypair
+[01:32:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:32:17] [Server thread/INFO]: Using default channel type
+[01:32:18] [Server thread/INFO]: Preparing level "world"
+[01:32:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:32:21] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[01:32:21] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[01:32:21] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[01:32:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:32:21] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[01:32:21] [Worker-Main-6/INFO]: Preparing spawn area: 57%
+[01:32:21] [Server thread/INFO]: Time elapsed: 2746 ms
+[01:32:21] [Server thread/INFO]: Done (3.673s)! For help, type "help"
+[01:33:04] [Server thread/INFO]: Stopping the server
+[01:33:04] [Server thread/INFO]: Stopping server
+[01:33:04] [Server thread/INFO]: Saving players
+[01:33:04] [Server thread/INFO]: Saving worlds
+[01:33:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:33:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:33:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:33:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:33:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:33:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:33:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
