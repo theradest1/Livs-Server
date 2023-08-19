@@ -1,5 +1,5 @@
-[01:32:05] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.22
-[01:32:05] [main/INFO]: Loading 80 mods:
+[16:40:00] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.22
+[16:40:00] [main/INFO]: Loading 83 mods:
 	- adorn 4.3.0+1.19.4
 	- architectury 8.2.89
 	- biomemakeover 1.19.4-1.9.5
@@ -8,6 +8,7 @@
 	   \-- cloth-basic-math 0.6.1
 	- creativecore 2.10.12
 	   \-- net_minecraftforge_eventbus 6.0.4
+	- deathchest 1.1
 	- emi 1.0.19+1.19.4+fabric
 	- fabric-api 0.87.0+1.19.4
 	   |-- fabric-api-base 0.4.28+737a6ee8f4
@@ -75,7 +76,7 @@
 	- fabricloader 0.14.22
 	- farmersdelight 1.19.4-1.3.13
 	- ferritecore 5.2.0
-	- java 17
+	- java 18
 	- krypton 0.2.2
 	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
 	- lithium 0.11.1
@@ -85,6 +86,8 @@
 	- mr_upgradable_backpack 1-v9.1
 	- phosphor 0.8.1
 	- seasons 2.2.1+1.19.4
+	- xaerominimap 23.6.1
+	- xaeroworldmap 1.32.0
 	- yet_another_config_lib_v3 3.1.0+1.19.4
 	   |-- com_twelvemonkeys_common_common-image 3.10.0-SNAPSHOT
 	   |-- com_twelvemonkeys_common_common-io 3.10.0-SNAPSHOT
@@ -93,70 +96,79 @@
 	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0-SNAPSHOT
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0-SNAPSHOT
 	   \-- yet_another_config_lib 2.5.1+1.19.4
-[01:32:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/lando/OneDrive/Documents/GitRepos/Livs-Server/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[01:32:06] [main/INFO]: Compatibility level set to JAVA_16
-[01:32:06] [main/INFO]: Compatibility level set to JAVA_17
-[01:32:06] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 2 override(s) found
-[01:32:06] [main/WARN]: Error loading class: net/minecraft/class_293 (java.lang.ClassNotFoundException: net/minecraft/class_293)
-[01:32:06] [main/WARN]: @Mixin target net.minecraft.class_293 was not found creativecore.fabric.mixins.json:VertexFormatMixin from mod creativecore
-[01:32:06] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[01:32:06] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
-[01:32:07] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[01:32:07] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[01:32:14] [main/INFO]: Registering C2S receiver with id biomemakeover:cl_complete_quest
-[01:32:14] [main/INFO]: Registering C2S receiver with id biomemakeover:update_dir_data
-[01:32:15] [main/INFO]: Compression will use Java, encryption will use Java
-[01:32:15] [main/INFO]: [Fabric Seasons] Trying to read config file...
-[01:32:15] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
-[01:32:15] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
-[01:32:15] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
-[01:32:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:32:15] [main/WARN]: xaerominimap:no_minimap missing from registry, but requested!
-[01:32:15] [main/WARN]: xaerominimap:no_minimap_harmful missing from registry, but requested!
-[01:32:15] [main/WARN]: xaerominimap:no_entity_radar missing from registry, but requested!
-[01:32:15] [main/WARN]: xaerominimap:no_entity_radar_harmful missing from registry, but requested!
-[01:32:15] [main/WARN]: xaerominimap:no_waypoints missing from registry, but requested!
-[01:32:15] [main/WARN]: xaerominimap:no_waypoints_harmful missing from registry, but requested!
-[01:32:15] [main/WARN]: xaerominimap:no_cave_maps missing from registry, but requested!
-[01:32:15] [main/WARN]: xaerominimap:no_cave_maps_harmful missing from registry, but requested!
-[01:32:15] [main/WARN]: xaeroworldmap:no_world_map missing from registry, but requested!
-[01:32:15] [main/WARN]: xaeroworldmap:no_world_map_harmful missing from registry, but requested!
-[01:32:15] [main/WARN]: xaeroworldmap:no_cave_maps missing from registry, but requested!
-[01:32:15] [main/WARN]: xaeroworldmap:no_cave_maps_harmful missing from registry, but requested!
-[01:32:15] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[01:32:16] [main/INFO]: Loaded 10 recipes
-[01:32:16] [main/INFO]: Loaded 1765 advancements
-[01:32:16] [main/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
-[01:32:17] [main/INFO]: Applied 342 biome modifications to 63 of 63 new biomes in 18.31 ms
-[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of plains
-[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of savanna
-[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of snowy
-[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of taiga
-[01:32:17] [Server thread/INFO]: Registering compost heaps in village type of desert
-[01:32:17] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[01:32:17] [Server thread/INFO]: Loading properties
-[01:32:17] [Server thread/INFO]: Default game type: SURVIVAL
-[01:32:17] [Server thread/INFO]: Generating keypair
-[01:32:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:32:17] [Server thread/INFO]: Using default channel type
-[01:32:18] [Server thread/INFO]: Preparing level "world"
-[01:32:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:32:21] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[01:32:21] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[01:32:21] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[01:32:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:32:21] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[01:32:21] [Worker-Main-6/INFO]: Preparing spawn area: 57%
-[01:32:21] [Server thread/INFO]: Time elapsed: 2746 ms
-[01:32:21] [Server thread/INFO]: Done (3.673s)! For help, type "help"
-[01:33:04] [Server thread/INFO]: Stopping the server
-[01:33:04] [Server thread/INFO]: Stopping server
-[01:33:04] [Server thread/INFO]: Saving players
-[01:33:04] [Server thread/INFO]: Saving worlds
-[01:33:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:33:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:33:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:33:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:33:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:33:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:33:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:40:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/lando/Desktop/Repositories/Livs-Server/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[16:40:00] [main/INFO]: Compatibility level set to JAVA_16
+[16:40:00] [main/INFO]: Compatibility level set to JAVA_17
+[16:40:01] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 2 override(s) found
+[16:40:01] [main/WARN]: Error loading class: net/minecraft/class_293 (java.lang.ClassNotFoundException: net/minecraft/class_293)
+[16:40:01] [main/WARN]: @Mixin target net.minecraft.class_293 was not found creativecore.fabric.mixins.json:VertexFormatMixin from mod creativecore
+[16:40:01] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[16:40:01] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[16:40:01] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[16:40:01] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[16:40:09] [main/INFO]: Registering C2S receiver with id biomemakeover:cl_complete_quest
+[16:40:09] [main/INFO]: Registering C2S receiver with id biomemakeover:update_dir_data
+[16:40:09] [main/INFO]: Hello Fabric world!
+[16:40:09] [main/INFO]: Compression will use Java, encryption will use Java
+[16:40:09] [main/INFO]: [Fabric Seasons] Trying to read config file...
+[16:40:09] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
+[16:40:09] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
+[16:40:10] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[16:40:10] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16:40:10] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[16:40:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:40:10] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[16:40:11] [main/INFO]: Loaded 10 recipes
+[16:40:11] [main/INFO]: Loaded 1765 advancements
+[16:40:11] [main/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[16:40:12] [main/INFO]: Applied 342 biome modifications to 63 of 63 new biomes in 19.23 ms
+[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of plains
+[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of savanna
+[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of snowy
+[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of taiga
+[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of desert
+[16:40:12] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[16:40:12] [Server thread/INFO]: Loading properties
+[16:40:12] [Server thread/INFO]: Default game type: SURVIVAL
+[16:40:12] [Server thread/INFO]: Generating keypair
+[16:40:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:40:12] [Server thread/INFO]: Using default channel type
+[16:40:13] [Server thread/INFO]: Preparing level "world"
+[16:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:40:16] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[16:40:16] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[16:40:16] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[16:40:16] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:40:16] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[16:40:16] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[16:40:17] [Server thread/INFO]: Time elapsed: 2822 ms
+[16:40:17] [Server thread/INFO]: Done (3.901s)! For help, type "help"
+[16:40:17] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16:40:17] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[16:40:19] [Server thread/INFO]: Glow Squid died due to drown damage source
+[16:40:20] [Server thread/INFO]: Bat died due to lava damage source
+[16:41:25] [User Authenticator #1/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[16:41:26] [Server thread/INFO]: ShadowStar18[/127.0.0.1:57849] logged in with entity id 116 at (4.816956035820559, 77.0, 8.80720805843019)
+[16:41:26] [Server thread/INFO]: ShadowStar18 joined the game
+[16:41:32] [Server thread/INFO]: Glow Squid died due to drown damage source
+[16:41:50] [Server thread/INFO]: Glow Squid died due to drown damage source
+[16:42:22] [Server thread/INFO]: Glow Squid died due to drown damage source
+[16:42:48] [Server thread/INFO]: Glow Squid died due to drown damage source
+[16:43:12] [Server thread/INFO]: Glow Squid died due to drown damage source
+[16:43:16] [Server thread/INFO]: Glow Squid died due to drown damage source
+[16:43:50] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[16:43:50] [Server thread/INFO]: ShadowStar18 left the game
+[16:44:01] [Server thread/INFO]: Glow Squid died due to drown damage source
+[16:46:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:46:43] [Server thread/INFO]: close<--[HERE]
+[16:46:45] [Server thread/INFO]: Stopping the server
+[16:46:45] [Server thread/INFO]: Stopping server
+[16:46:45] [Server thread/INFO]: Saving players
+[16:46:45] [Server thread/INFO]: Saving worlds
+[16:46:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:46:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:46:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:46:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:46:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:46:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:46:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
