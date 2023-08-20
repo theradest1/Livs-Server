@@ -1,5 +1,5 @@
-[16:40:00] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.22
-[16:40:00] [main/INFO]: Loading 83 mods:
+[18:58:16] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.22
+[18:58:16] [main/INFO]: Loading 83 mods:
 	- adorn 4.3.0+1.19.4
 	- architectury 8.2.89
 	- biomemakeover 1.19.4-1.9.5
@@ -96,79 +96,215 @@
 	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0-SNAPSHOT
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0-SNAPSHOT
 	   \-- yet_another_config_lib 2.5.1+1.19.4
-[16:40:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/lando/Desktop/Repositories/Livs-Server/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[16:40:00] [main/INFO]: Compatibility level set to JAVA_16
-[16:40:00] [main/INFO]: Compatibility level set to JAVA_17
-[16:40:01] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 2 override(s) found
-[16:40:01] [main/WARN]: Error loading class: net/minecraft/class_293 (java.lang.ClassNotFoundException: net/minecraft/class_293)
-[16:40:01] [main/WARN]: @Mixin target net.minecraft.class_293 was not found creativecore.fabric.mixins.json:VertexFormatMixin from mod creativecore
-[16:40:01] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[16:40:01] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
-[16:40:01] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[16:40:01] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[16:40:09] [main/INFO]: Registering C2S receiver with id biomemakeover:cl_complete_quest
-[16:40:09] [main/INFO]: Registering C2S receiver with id biomemakeover:update_dir_data
-[16:40:09] [main/INFO]: Hello Fabric world!
-[16:40:09] [main/INFO]: Compression will use Java, encryption will use Java
-[16:40:09] [main/INFO]: [Fabric Seasons] Trying to read config file...
-[16:40:09] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
-[16:40:09] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
-[16:40:10] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[16:40:10] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16:40:10] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[16:40:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:40:10] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[16:40:11] [main/INFO]: Loaded 10 recipes
-[16:40:11] [main/INFO]: Loaded 1765 advancements
-[16:40:11] [main/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
-[16:40:12] [main/INFO]: Applied 342 biome modifications to 63 of 63 new biomes in 19.23 ms
-[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of plains
-[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of savanna
-[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of snowy
-[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of taiga
-[16:40:12] [Server thread/INFO]: Registering compost heaps in village type of desert
-[16:40:12] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[16:40:12] [Server thread/INFO]: Loading properties
-[16:40:12] [Server thread/INFO]: Default game type: SURVIVAL
-[16:40:12] [Server thread/INFO]: Generating keypair
-[16:40:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:40:12] [Server thread/INFO]: Using default channel type
-[16:40:13] [Server thread/INFO]: Preparing level "world"
-[16:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:40:16] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[16:40:16] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:40:16] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:40:16] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[16:40:16] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:40:16] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[16:40:17] [Server thread/INFO]: Time elapsed: 2822 ms
-[16:40:17] [Server thread/INFO]: Done (3.901s)! For help, type "help"
-[16:40:17] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[16:40:17] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[16:40:19] [Server thread/INFO]: Glow Squid died due to drown damage source
-[16:40:20] [Server thread/INFO]: Bat died due to lava damage source
-[16:41:25] [User Authenticator #1/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
-[16:41:26] [Server thread/INFO]: ShadowStar18[/127.0.0.1:57849] logged in with entity id 116 at (4.816956035820559, 77.0, 8.80720805843019)
-[16:41:26] [Server thread/INFO]: ShadowStar18 joined the game
-[16:41:32] [Server thread/INFO]: Glow Squid died due to drown damage source
-[16:41:50] [Server thread/INFO]: Glow Squid died due to drown damage source
-[16:42:22] [Server thread/INFO]: Glow Squid died due to drown damage source
-[16:42:48] [Server thread/INFO]: Glow Squid died due to drown damage source
-[16:43:12] [Server thread/INFO]: Glow Squid died due to drown damage source
-[16:43:16] [Server thread/INFO]: Glow Squid died due to drown damage source
-[16:43:50] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[16:43:50] [Server thread/INFO]: ShadowStar18 left the game
-[16:44:01] [Server thread/INFO]: Glow Squid died due to drown damage source
-[16:46:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:46:43] [Server thread/INFO]: close<--[HERE]
-[16:46:45] [Server thread/INFO]: Stopping the server
-[16:46:45] [Server thread/INFO]: Stopping server
-[16:46:45] [Server thread/INFO]: Saving players
-[16:46:45] [Server thread/INFO]: Saving worlds
-[16:46:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:46:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:46:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:46:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:46:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:46:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:46:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:58:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/lando/Desktop/Repositories/Livs-Server/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[18:58:17] [main/INFO]: Compatibility level set to JAVA_16
+[18:58:17] [main/INFO]: Compatibility level set to JAVA_17
+[18:58:17] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 2 override(s) found
+[18:58:17] [main/WARN]: Error loading class: net/minecraft/class_293 (java.lang.ClassNotFoundException: net/minecraft/class_293)
+[18:58:17] [main/WARN]: @Mixin target net.minecraft.class_293 was not found creativecore.fabric.mixins.json:VertexFormatMixin from mod creativecore
+[18:58:17] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[18:58:17] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[18:58:17] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[18:58:17] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[18:58:26] [main/INFO]: Registering C2S receiver with id biomemakeover:cl_complete_quest
+[18:58:26] [main/INFO]: Registering C2S receiver with id biomemakeover:update_dir_data
+[18:58:26] [main/INFO]: Hello Fabric world!
+[18:58:26] [main/INFO]: Compression will use Java, encryption will use Java
+[18:58:26] [main/INFO]: [Fabric Seasons] Trying to read config file...
+[18:58:26] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
+[18:58:26] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
+[18:58:26] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[18:58:26] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18:58:26] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[18:58:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:58:27] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[18:58:27] [main/INFO]: Loaded 10 recipes
+[18:58:28] [main/INFO]: Loaded 1765 advancements
+[18:58:28] [main/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[18:58:29] [main/INFO]: Applied 342 biome modifications to 63 of 63 new biomes in 20.31 ms
+[18:58:29] [Server thread/INFO]: Registering compost heaps in village type of plains
+[18:58:29] [Server thread/INFO]: Registering compost heaps in village type of savanna
+[18:58:29] [Server thread/INFO]: Registering compost heaps in village type of snowy
+[18:58:29] [Server thread/INFO]: Registering compost heaps in village type of taiga
+[18:58:29] [Server thread/INFO]: Registering compost heaps in village type of desert
+[18:58:29] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[18:58:29] [Server thread/INFO]: Loading properties
+[18:58:29] [Server thread/INFO]: Default game type: SURVIVAL
+[18:58:29] [Server thread/INFO]: Generating keypair
+[18:58:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:58:30] [Server thread/INFO]: Using default channel type
+[18:58:30] [Server thread/INFO]: Preparing level "world"
+[18:58:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:58:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:58:33] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[18:58:33] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[18:58:33] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:58:34] [Worker-Main-4/INFO]: Preparing spawn area: 32%
+[18:58:34] [Server thread/INFO]: Time elapsed: 2834 ms
+[18:58:34] [Server thread/INFO]: Done (3.975s)! For help, type "help"
+[18:58:34] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18:58:34] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18:58:42] [Server thread/INFO]: Glow Squid died due to drown damage source
+[18:59:36] [User Authenticator #1/INFO]: UUID of player Avocado5100 is 8b074c9e-2458-4e6c-839b-4fca18542a70
+[18:59:36] [Server thread/INFO]: Avocado5100[/192.168.0.9:64412] logged in with entity id 116 at (8.5, 67.0, -5.5)
+[18:59:36] [Server thread/INFO]: Avocado5100 joined the game
+[18:59:37] [Server thread/INFO]: Bat died due to onFire damage source
+[18:59:45] [User Authenticator #2/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[18:59:45] [Server thread/INFO]: ShadowStar18[/127.0.0.1:61383] logged in with entity id 299 at (3.5928581062996683, 77.0, 8.074444945697644)
+[18:59:45] [Server thread/INFO]: ShadowStar18 joined the game
+[19:00:52] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:01:13] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:01:33] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:01:34] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:01:39] [Server thread/INFO]: Sheep died due to player damage source
+[19:01:39] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:01:52] [Server thread/INFO]: Glow Squid died due to fall damage source
+[19:01:55] [Server thread/INFO]: Sheep died due to player damage source
+[19:01:56] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:02:00] [Server thread/INFO]: Glow Squid died due to stalagmite damage source
+[19:02:13] [Server thread/INFO]: Sheep died due to player damage source
+[19:02:14] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:02:17] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:02:28] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:02:36] [Server thread/INFO]: Sheep died due to player damage source
+[19:02:37] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:02:38] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:02:57] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:03:10] [Server thread/INFO]: ShadowStar18 has made the advancement [Stone Age]
+[19:03:26] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:03:48] [Server thread/INFO]: Sheep died due to player damage source
+[19:03:58] [Server thread/INFO]: ShadowStar18 has made the advancement [Getting an Upgrade]
+[19:03:58] [Server thread/INFO]: Sheep died due to player damage source
+[19:04:09] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:04:11] [Server thread/INFO]: Sheep died due to player damage source
+[19:04:16] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:04:21] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:04:27] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:04:50] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:04:51] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:05:30] [Server thread/INFO]: Bat died due to lava damage source
+[19:06:04] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:06:28] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:07:59] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:08:06] [Server thread/INFO]: Bat died due to lava damage source
+[19:08:10] [Server thread/INFO]: Bat died due to lava damage source
+[19:08:32] [Server thread/INFO]: Bat died due to lava damage source
+[19:08:50] [Server thread/INFO]: Cow died due to player damage source
+[19:10:00] [Server thread/INFO]: Cow died due to player damage source
+[19:10:21] [Server thread/INFO]: Bat died due to lava damage source
+[19:10:29] [Server thread/INFO]: Pig died due to player damage source
+[19:11:38] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:11:43] [Server thread/INFO]: Bat died due to onFire damage source
+[19:11:47] [Server thread/INFO]: Glow Squid died due to stalagmite damage source
+[19:12:02] [Server thread/INFO]: Glow Squid died due to fall damage source
+[19:12:20] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:13:00] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:13:00] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:13:11] [Server thread/INFO]: Axolotl died due to hotFloor damage source
+[19:13:23] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:13:35] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:14:09] [Server thread/INFO]: Squid died due to drown damage source
+[19:14:23] [Server thread/INFO]: Bat died due to lava damage source
+[19:14:34] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:14:37] [Server thread/INFO]: Bat died due to onFire damage source
+[19:14:59] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:15:50] [Server thread/INFO]: Tropical Fish died due to mob damage source
+[19:16:28] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:17:02] [Server thread/INFO]: Squid died due to drown damage source
+[19:17:12] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:17:16] [Server thread/INFO]: Avocado5100 has made the advancement [Hostile Neighbors]
+[19:17:18] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:18:58] [Server thread/INFO]: Avocado5100 has made the advancement [Orange is the New Orange]
+[19:19:18] [Server thread/INFO]: ShadowStar18 has made the advancement [Sick Shard]
+[19:19:22] [Server thread/INFO]: ShadowStar18 has made the advancement [Acquire Hardware]
+[19:20:07] [Server thread/INFO]: Bat died due to onFire damage source
+[19:20:11] [Server thread/INFO]: Avocado5100 has made the advancement [Acquire Hardware]
+[19:21:42] [Server thread/INFO]: Avocado5100 has made the advancement [Sick Shard]
+[19:23:56] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:24:02] [Server thread/INFO]: Bat died due to lava damage source
+[19:24:05] [Server thread/INFO]: Bat died due to onFire damage source
+[19:24:23] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:24:28] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:25:52] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:25:56] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:26:27] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:27:39] [Server thread/INFO]: Bat died due to lava damage source
+[19:28:10] [Server thread/INFO]: Bat died due to lava damage source
+[19:28:39] [Server thread/INFO]: Bat died due to onFire damage source
+[19:29:25] [Server thread/INFO]: Avocado5100 has made the advancement [Isn't It Iron Pick]
+[19:29:26] [Server thread/INFO]: ShadowStar18 has made the advancement [Isn't It Iron Pick]
+[19:30:11] [Server thread/INFO]: ShadowStar18 has made the advancement [Cursed]
+[19:31:08] [Server thread/INFO]: Bat died due to lava damage source
+[19:31:16] [Server thread/INFO]: Salmon died due to hotFloor damage source
+[19:33:41] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:33:45] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:34:23] [Server thread/INFO]: Bat died due to lava damage source
+[19:34:35] [Server thread/INFO]: ShadowStar18 has reached the goal [Dark Dance]
+[19:35:22] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:37:18] [Server thread/INFO]: Axolotl died due to lava damage source
+[19:37:47] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:37:48] [Server thread/INFO]: Bat died due to lava damage source
+[19:40:00] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:40:01] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:40:07] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:40:29] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:40:41] [Server thread/INFO]: Squid died due to drown damage source
+[19:40:47] [Server thread/INFO]: Glow Squid died due to mob damage source
+[19:40:50] [Server thread/INFO]: Bat died due to lava damage source
+[19:40:52] [Server thread/INFO]: Cow died due to player damage source
+[19:42:12] [Server thread/INFO]: Bat died due to lava damage source
+[19:42:43] [Server thread/INFO]: Bat died due to onFire damage source
+[19:45:37] [Server thread/INFO]: Salmon died due to hotFloor damage source
+[19:49:56] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:50:51] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:50:54] [Server thread/INFO]: Bat died due to lava damage source
+[19:51:02] [Server thread/INFO]: Bat died due to onFire damage source
+[19:51:32] [Server thread/INFO]: Avocado5100 has made the advancement [Yee hawnted]
+[19:51:36] [Server thread/INFO]: ShadowStar18 has made the advancement [Yee hawnted]
+[19:53:07] [Server thread/INFO]: Bat died due to onFire damage source
+[19:53:24] [Server thread/INFO]: Bat died due to onFire damage source
+[19:53:29] [Server thread/INFO]: ShadowStar18 has reached the goal [Ragtime Gal]
+[19:54:12] [Server thread/INFO]: Bat died due to lava damage source
+[19:55:53] [Server thread/INFO]: Avocado5100 has reached the goal [Ragtime Gal]
+[19:59:14] [Server thread/INFO]: Glow Squid died due to drown damage source
+[19:59:14] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:01:19] [Server thread/INFO]: Bat died due to lava damage source
+[20:01:20] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:01:20] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:01:41] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:01:42] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:01:58] [Server thread/INFO]: Scuttler died due to player damage source
+[20:01:58] [Server thread/INFO]: ShadowStar18 has made the advancement [Rattling Rump]
+[20:02:15] [Server thread/INFO]: Bat died due to lava damage source
+[20:02:15] [Server thread/INFO]: Avocado5100 has made the advancement [Rattling Rump]
+[20:02:42] [Server thread/INFO]: Bat died due to onFire damage source
+[20:02:49] [Server thread/INFO]: Bat died due to lava damage source
+[20:03:36] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:03:47] [Server thread/INFO]: Bat died due to lava damage source
+[20:04:30] [Server thread/INFO]: ShadowStar18 has made the advancement [Crops of the Wild]
+[20:05:06] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:05:07] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:06:07] [Server thread/INFO]: Glow Squid died due to drown damage source
+[20:08:39] [Server thread/INFO]: Bat died due to lava damage source
+[20:08:56] [Server thread/INFO]: Avocado5100 has made the advancement [Stone Age]
+[20:09:31] [Server thread/INFO]: Bat died due to lava damage source
+[20:09:40] [Server thread/INFO]: Bat died due to onFire damage source
+[20:10:20] [Server thread/INFO]: Bat died due to lava damage source
+[20:14:50] [Server thread/INFO]: Bat died due to onFire damage source
+[20:16:49] [Server thread/INFO]: Bat died due to onFire damage source
+[20:17:16] [Server thread/INFO]: Avocado5100 lost connection: Disconnected
+[20:17:16] [Server thread/INFO]: Avocado5100 left the game
+[20:17:17] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[20:17:17] [Server thread/INFO]: ShadowStar18 left the game
+[20:17:42] [Server thread/INFO]: Stopping the server
+[20:17:42] [Server thread/INFO]: Stopping server
+[20:17:42] [Server thread/INFO]: Saving players
+[20:17:42] [Server thread/INFO]: Saving worlds
+[20:17:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:17:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:17:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:17:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:17:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:17:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:17:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
