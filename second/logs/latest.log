@@ -1,0 +1,80 @@
+[15:22:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:22:40] [ServerMain/INFO]: Loaded 7 recipes
+[15:22:40] [ServerMain/INFO]: Loaded 1271 advancements
+[15:22:41] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[15:22:41] [Server thread/INFO]: Loading properties
+[15:22:41] [Server thread/INFO]: Default game type: SURVIVAL
+[15:22:41] [Server thread/INFO]: Generating keypair
+[15:22:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:22:41] [Server thread/INFO]: Using default channel type
+[15:22:41] [Server thread/INFO]: Preparing level "world"
+[15:22:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:22:43] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:22:43] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:22:43] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:22:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:22:44] [Worker-Main-9/INFO]: Preparing spawn area: 84%
+[15:22:44] [Server thread/INFO]: Time elapsed: 2054 ms
+[15:22:44] [Server thread/INFO]: Done (2.759s)! For help, type "help"
+[15:26:57] [User Authenticator #1/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[15:26:58] [Server thread/INFO]: ShadowStar18[/127.0.0.1:63494] logged in with entity id 136 at (-1.5, 72.0, -7.5)
+[15:26:58] [Server thread/INFO]: ShadowStar18 joined the game
+[15:27:05] [User Authenticator #2/INFO]: UUID of player Avocado5100 is 8b074c9e-2458-4e6c-839b-4fca18542a70
+[15:27:05] [Server thread/INFO]: Avocado5100[/192.168.0.25:62028] logged in with entity id 323 at (0.5, 68.0, 1.5)
+[15:27:05] [Server thread/INFO]: Avocado5100 joined the game
+[15:33:16] [Server thread/INFO]: ShadowStar18 has made the advancement [Sweet Dreams]
+[15:33:16] [Server thread/INFO]: Avocado5100 has made the advancement [Sweet Dreams]
+[15:34:27] [Server thread/INFO]: Avocado5100 has made the advancement [Stone Age]
+[15:40:34] [Server thread/INFO]: ShadowStar18 has made the advancement [Acquire Hardware]
+[15:43:02] [Server thread/INFO]: ShadowStar18 has made the advancement [Isn't It Iron Pick]
+[15:44:13] [Server thread/INFO]: Avocado5100 has made the advancement [Getting an Upgrade]
+[15:49:01] [Server thread/INFO]: ShadowStar18 has made the advancement [Stone Age]
+[16:01:20] [Server thread/INFO]: ShadowStar18 has made the advancement [Not Today, Thank You]
+[16:01:23] [Server thread/INFO]: ShadowStar18 has made the advancement [Monster Hunter]
+[16:01:54] [Server thread/INFO]: ShadowStar18 has made the advancement [Voluntary Exile]
+[16:20:34] [Server thread/INFO]: Avocado5100 has made the advancement [Acquire Hardware]
+[16:47:45] [Server thread/INFO]: <Avocado5100> wwwwwww
+[17:09:06] [Server thread/INFO]: <Avocado5100> wwwwwww
+[17:14:43] [Server thread/INFO]: Avocado5100 has made the advancement [Isn't It Iron Pick]
+[17:19:40] [Server thread/INFO]: ShadowStar18 has made the advancement [A Seedy Place]
+[17:30:42] [Server thread/INFO]: <ShadowStar18> w
+[17:32:43] [Server thread/INFO]: ShadowStar18 has made the advancement [The Parrots and the Bats]
+[17:35:06] [Server thread/INFO]: ShadowStar18 has made the advancement [Ol' Betsy]
+[17:41:34] [Server thread/INFO]: <Avocado5100> uwu
+[17:52:09] [Server thread/INFO]: <ShadowStar18> w
+[17:52:10] [Server thread/INFO]: <ShadowStar18> w
+[17:52:11] [Server thread/INFO]: <ShadowStar18> w
+[17:52:12] [Server thread/INFO]: <ShadowStar18> w
+[17:52:12] [Server thread/INFO]: <ShadowStar18> w
+[17:52:12] [Server thread/INFO]: <ShadowStar18> w
+[17:52:13] [Server thread/INFO]: <ShadowStar18> w
+[17:52:13] [Server thread/INFO]: <ShadowStar18> w
+[17:52:13] [Server thread/INFO]: <ShadowStar18> w
+[17:52:13] [Server thread/INFO]: <ShadowStar18> w
+[17:52:13] [Server thread/INFO]: <ShadowStar18> w
+[17:52:14] [Server thread/INFO]: <Avocado5100> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[17:52:14] [Server thread/INFO]: <ShadowStar18> w
+[17:52:17] [Server thread/INFO]: <Avocado5100> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[18:02:50] [Server thread/INFO]: <ShadowStar18> w
+[18:02:51] [Server thread/INFO]: <ShadowStar18> w
+[18:02:52] [Server thread/INFO]: <ShadowStar18> w
+[18:02:53] [Server thread/INFO]: <ShadowStar18> w
+[18:02:53] [Server thread/INFO]: <ShadowStar18> w
+[18:02:53] [Server thread/INFO]: <ShadowStar18> w
+[18:02:54] [Server thread/INFO]: <ShadowStar18> w
+[18:02:58] [Server thread/INFO]: <Avocado5100> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[18:05:21] [Server thread/INFO]: Avocado5100 lost connection: Disconnected
+[18:05:21] [Server thread/INFO]: Avocado5100 left the game
+[18:06:13] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[18:06:13] [Server thread/INFO]: ShadowStar18 left the game
+[18:06:20] [Server thread/INFO]: Stopping the server
+[18:06:20] [Server thread/INFO]: Stopping server
+[18:06:20] [Server thread/INFO]: Saving players
+[18:06:20] [Server thread/INFO]: Saving worlds
+[18:06:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:06:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:06:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:06:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:06:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:06:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:06:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
