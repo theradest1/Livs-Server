@@ -1,44 +1,35 @@
-[18:50:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:50:57] [ServerMain/INFO]: Loaded 7 recipes
-[18:50:57] [ServerMain/INFO]: Loaded 1271 advancements
-[18:50:58] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:50:58] [Server thread/INFO]: Loading properties
-[18:50:58] [Server thread/INFO]: Default game type: SURVIVAL
-[18:50:58] [Server thread/INFO]: Generating keypair
-[18:50:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:50:58] [Server thread/INFO]: Using default channel type
-[18:50:58] [Server thread/INFO]: Preparing level "world"
-[18:50:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:51:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:51:01] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[18:51:01] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[18:51:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:51:01] [Worker-Main-12/INFO]: Preparing spawn area: 10%
-[18:51:01] [Server thread/INFO]: Time elapsed: 2299 ms
-[18:51:01] [Server thread/INFO]: Done (3.070s)! For help, type "help"
-[18:51:10] [User Authenticator #1/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
-[18:51:10] [Server thread/INFO]: ShadowStar18[/127.0.0.1:51606] logged in with entity id 109 at (501.3020499559604, 102.0, 354.68096401040475)
-[18:51:10] [Server thread/INFO]: ShadowStar18 joined the game
-[19:00:37] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[19:00:37] [Server thread/INFO]: ShadowStar18 left the game
-[19:01:08] [User Authenticator #2/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
-[19:01:08] [Server thread/INFO]: ShadowStar18[/127.0.0.1:51794] logged in with entity id 2696 at (526.3713145644917, 121.0, 302.9569771013388)
-[19:01:08] [Server thread/INFO]: ShadowStar18 joined the game
-[19:01:32] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[19:01:32] [Server thread/INFO]: ShadowStar18 left the game
-[19:02:21] [User Authenticator #3/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
-[19:02:21] [Server thread/INFO]: ShadowStar18[/127.0.0.1:51912] logged in with entity id 4031 at (527.9131408719802, 113.0, 325.6658097075598)
-[19:02:21] [Server thread/INFO]: ShadowStar18 joined the game
-[19:06:59] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[19:06:59] [Server thread/INFO]: ShadowStar18 left the game
-[19:07:04] [Server thread/INFO]: Stopping the server
-[19:07:04] [Server thread/INFO]: Stopping server
-[19:07:04] [Server thread/INFO]: Saving players
-[19:07:04] [Server thread/INFO]: Saving worlds
-[19:07:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:07:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:07:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:35:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:35:31] [ServerMain/INFO]: Loaded 7 recipes
+[19:35:31] [ServerMain/INFO]: Loaded 1271 advancements
+[19:35:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:35:31] [Server thread/INFO]: Loading properties
+[19:35:31] [Server thread/INFO]: Default game type: SURVIVAL
+[19:35:31] [Server thread/INFO]: Generating keypair
+[19:35:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:35:32] [Server thread/INFO]: Using default channel type
+[19:35:32] [Server thread/INFO]: Preparing level "world"
+[19:35:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:35:34] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:35:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:35:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:35:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:35:35] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[19:35:35] [Server thread/INFO]: Time elapsed: 2555 ms
+[19:35:35] [Server thread/INFO]: Done (3.301s)! For help, type "help"
+[19:35:49] [User Authenticator #1/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[19:35:49] [Server thread/INFO]: ShadowStar18[/127.0.0.1:52759] logged in with entity id 109 at (525.4357673137565, 121.0, 311.1088554160368)
+[19:35:49] [Server thread/INFO]: ShadowStar18 joined the game
+[19:38:39] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[19:38:39] [Server thread/INFO]: ShadowStar18 left the game
+[19:40:00] [Server thread/INFO]: Stopping the server
+[19:40:01] [Server thread/INFO]: Stopping server
+[19:40:01] [Server thread/INFO]: Saving players
+[19:40:01] [Server thread/INFO]: Saving worlds
+[19:40:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:40:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:40:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
