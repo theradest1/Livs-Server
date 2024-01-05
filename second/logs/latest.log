@@ -1,91 +1,90 @@
-[13:43:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:43:55] [ServerMain/INFO]: Loaded 7 recipes
-[13:43:55] [ServerMain/INFO]: Loaded 1271 advancements
-[13:43:56] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[13:43:56] [Server thread/INFO]: Loading properties
-[13:43:56] [Server thread/INFO]: Default game type: SURVIVAL
-[13:43:56] [Server thread/INFO]: Generating keypair
-[13:43:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:43:56] [Server thread/INFO]: Using default channel type
-[13:43:56] [Server thread/INFO]: Preparing level "world"
-[13:43:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:43:58] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[13:43:58] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[13:43:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[13:43:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[13:43:59] [Worker-Main-13/INFO]: Preparing spawn area: 65%
-[13:43:59] [Server thread/INFO]: Time elapsed: 2121 ms
-[13:43:59] [Server thread/INFO]: Done (2.842s)! For help, type "help"
-[13:44:37] [User Authenticator #1/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
-[13:44:38] [Server thread/INFO]: ShadowStar18[/127.0.0.1:54946] logged in with entity id 93 at (489.93886168069173, 89.0, 385.4659552007914)
-[13:44:38] [Server thread/INFO]: ShadowStar18 joined the game
-[13:44:41] [User Authenticator #2/INFO]: UUID of player Avocado5100 is 8b074c9e-2458-4e6c-839b-4fca18542a70
-[13:44:42] [Server thread/INFO]: Avocado5100[/192.168.0.25:62781] logged in with entity id 374 at (530.0902728750231, 114.0, 314.30000001192093)
-[13:44:42] [Server thread/INFO]: Avocado5100 joined the game
-[13:45:46] [Server thread/INFO]: Avocado5100 lost connection: Disconnected
-[13:45:46] [Server thread/INFO]: Avocado5100 left the game
-[13:47:17] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[13:47:17] [Server thread/INFO]: ShadowStar18 left the game
-[13:47:35] [User Authenticator #3/INFO]: UUID of player Avocado5100 is 8b074c9e-2458-4e6c-839b-4fca18542a70
-[13:47:36] [Server thread/INFO]: Avocado5100[/192.168.0.25:62914] logged in with entity id 2285 at (529.1957895994531, 113.0, 321.29828035523457)
-[13:47:36] [Server thread/INFO]: Avocado5100 joined the game
-[13:47:54] [User Authenticator #4/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
-[13:47:54] [Server thread/INFO]: ShadowStar18[/127.0.0.1:55124] logged in with entity id 3438 at (477.35181353325083, 104.0, 378.9320719153221)
-[13:47:54] [Server thread/INFO]: ShadowStar18 joined the game
-[14:00:54] [Server thread/INFO]: <ShadowStar18> w
-[14:01:03] [Server thread/INFO]: <Avocado5100> ww
-[14:01:04] [Server thread/INFO]: <Avocado5100> www
-[14:06:55] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[14:06:55] [Server thread/INFO]: ShadowStar18 left the game
-[14:07:56] [Server thread/INFO]: Avocado5100 lost connection: Disconnected
-[14:07:56] [Server thread/INFO]: Avocado5100 left the game
-[14:14:44] [User Authenticator #5/INFO]: UUID of player Avocado5100 is 8b074c9e-2458-4e6c-839b-4fca18542a70
-[14:14:45] [Server thread/INFO]: Avocado5100[/192.168.0.25:63305] logged in with entity id 8625 at (533.897559519687, 120.0, 324.88435599072466)
-[14:14:45] [Server thread/INFO]: Avocado5100 joined the game
-[14:15:13] [Server thread/INFO]: <Avocado5100> ww
-[14:23:06] [User Authenticator #6/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
-[14:23:06] [Server thread/INFO]: ShadowStar18[/127.0.0.1:55395] logged in with entity id 11215 at (522.6999999880791, 113.0, 333.61421561464147)
-[14:23:06] [Server thread/INFO]: ShadowStar18 joined the game
-[14:25:42] [Server thread/INFO]: <Avocado5100> wwwwwww
-[14:25:44] [Server thread/INFO]: <ShadowStar18> w
-[14:36:20] [Server thread/INFO]: Avocado5100 lost connection: Disconnected
-[14:36:20] [Server thread/INFO]: Avocado5100 left the game
-[15:23:20] [User Authenticator #7/INFO]: UUID of player Avocado5100 is 8b074c9e-2458-4e6c-839b-4fca18542a70
-[15:23:20] [Server thread/INFO]: Avocado5100[/192.168.0.25:63590] logged in with entity id 28147 at (521.2949452544161, 121.0, 313.4849105852557)
-[15:23:20] [Server thread/INFO]: Avocado5100 joined the game
-[15:23:27] [Server thread/INFO]: <Avocado5100> www
-[15:30:45] [Server thread/INFO]: Avocado5100 has made the advancement [Hot Stuff]
-[15:34:39] [Server thread/INFO]: <ShadowStar18> w
-[15:37:24] [Server thread/INFO]: ShadowStar18 has made the advancement [Hot Stuff]
-[15:45:23] [Server thread/INFO]: <Avocado5100> wwwww
-[15:55:51] [Server thread/INFO]: <ShadowStar18> w
-[15:55:59] [Server thread/INFO]: <Avocado5100> www
-[16:12:33] [Server thread/INFO]: ShadowStar18 has made the advancement [We Need to Go Deeper]
-[16:14:43] [Server thread/INFO]: ShadowStar18 has completed the challenge [Return to Sender]
-[16:17:26] [Server thread/INFO]: <Avocado5100> wwwwwwww
-[16:49:13] [Server thread/INFO]: <Avocado5100> wwwwwww
-[17:22:13] [Server thread/INFO]: Avocado5100 has made the advancement [Monster Hunter]
-[17:32:50] [Server thread/INFO]: <ShadowStar18> w
-[17:48:40] [Server thread/INFO]: ShadowStar18 has made the advancement [Take Aim]
-[17:51:13] [Server thread/INFO]: ShadowStar18 has made the advancement [A Terrible Fortress]
-[18:07:19] [Server thread/INFO]: Avocado5100 lost connection: Disconnected
-[18:07:19] [Server thread/INFO]: Avocado5100 left the game
-[18:19:53] [Server thread/INFO]: Avocado5100 (/192.168.0.25:64260) lost connection: Disconnected
-[18:20:00] [User Authenticator #8/INFO]: UUID of player Avocado5100 is 8b074c9e-2458-4e6c-839b-4fca18542a70
-[18:20:00] [Server thread/INFO]: Avocado5100[/192.168.0.25:64262] logged in with entity id 94200 at (525.4550021017589, 113.0, 324.9363100779605)
-[18:20:00] [Server thread/INFO]: Avocado5100 joined the game
-[18:42:51] [Server thread/INFO]: Avocado5100 lost connection: Disconnected
-[18:42:51] [Server thread/INFO]: Avocado5100 left the game
-[18:42:53] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
-[18:42:53] [Server thread/INFO]: ShadowStar18 left the game
-[18:43:02] [Server thread/INFO]: Stopping the server
-[18:43:02] [Server thread/INFO]: Stopping server
-[18:43:02] [Server thread/INFO]: Saving players
-[18:43:02] [Server thread/INFO]: Saving worlds
-[18:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:00:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:00:38] [ServerMain/INFO]: Loaded 7 recipes
+[17:00:39] [ServerMain/INFO]: Loaded 1271 advancements
+[17:00:40] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[17:00:40] [Server thread/INFO]: Loading properties
+[17:00:40] [Server thread/INFO]: Default game type: SURVIVAL
+[17:00:40] [Server thread/INFO]: Generating keypair
+[17:00:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:00:40] [Server thread/INFO]: Using default channel type
+[17:00:40] [Server thread/INFO]: Preparing level "world"
+[17:00:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:00:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[17:00:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:00:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[17:00:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[17:00:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:44] [Worker-Main-13/INFO]: Preparing spawn area: 97%
+[17:00:44] [Server thread/INFO]: Time elapsed: 2511 ms
+[17:00:44] [Server thread/INFO]: Done (3.254s)! For help, type "help"
+[17:06:26] [User Authenticator #1/INFO]: UUID of player Avocado5100 is 8b074c9e-2458-4e6c-839b-4fca18542a70
+[17:06:27] [Server thread/INFO]: Avocado5100[/192.168.0.28:50856] logged in with entity id 103 at (522.9702833902244, 125.0, 312.7722889410033)
+[17:06:27] [Server thread/INFO]: Avocado5100 joined the game
+[17:12:06] [User Authenticator #2/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[17:12:06] [Server thread/INFO]: ShadowStar18[/127.0.0.1:49416] logged in with entity id 2175 at (521.8810067261471, 125.0, 308.23683793694744)
+[17:12:06] [Server thread/INFO]: ShadowStar18 joined the game
+[17:12:43] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[17:12:43] [Server thread/INFO]: ShadowStar18 left the game
+[17:15:57] [User Authenticator #3/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[17:15:57] [Server thread/INFO]: ShadowStar18[/127.0.0.1:49618] logged in with entity id 3542 at (525.8735602134205, 121.0, 307.8340833569143)
+[17:15:57] [Server thread/INFO]: ShadowStar18 joined the game
+[17:28:51] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[17:28:51] [Server thread/INFO]: ShadowStar18 left the game
+[17:29:28] [User Authenticator #4/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[17:29:28] [Server thread/INFO]: ShadowStar18[/127.0.0.1:49827] logged in with entity id 6935 at (516.5629973798387, 109.0, 345.3607049243931)
+[17:29:28] [Server thread/INFO]: ShadowStar18 joined the game
+[17:58:36] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[17:58:36] [Server thread/INFO]: ShadowStar18 left the game
+[17:59:07] [User Authenticator #5/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[17:59:08] [Server thread/INFO]: ShadowStar18[/127.0.0.1:50407] logged in with entity id 14963 at (553.7030602860729, 99.0, 278.70371417766216)
+[17:59:08] [Server thread/INFO]: ShadowStar18 joined the game
+[18:04:26] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[18:04:26] [Server thread/INFO]: ShadowStar18 left the game
+[18:04:48] [User Authenticator #6/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[18:04:49] [Server thread/INFO]: ShadowStar18[/127.0.0.1:50519] logged in with entity id 16542 at (543.4265535057399, 24.535840625044557, 275.0930805236265)
+[18:04:49] [Server thread/INFO]: ShadowStar18 joined the game
+[18:04:52] [Server thread/INFO]: ShadowStar18 was blown up by Creeper
+[18:04:55] [Server thread/WARN]: ShadowStar18 moved too quickly! -18.645465303801302,101.0,38.46060569458251
+[18:09:16] [Server thread/INFO]: Avocado5100 has made the advancement [Ol' Betsy]
+[18:09:29] [Server thread/INFO]: Avocado5100 has made the advancement [Take Aim]
+[18:12:38] [Server thread/INFO]: Avocado5100 has made the advancement [Not Today, Thank You]
+[18:18:55] [Server thread/INFO]: ShadowStar18 has made the advancement [Diamonds!]
+[18:32:20] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[18:32:20] [Server thread/INFO]: ShadowStar18 left the game
+[18:32:58] [User Authenticator #7/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[18:32:58] [Server thread/INFO]: ShadowStar18[/127.0.0.1:50888] logged in with entity id 24333 at (526.2267831631831, 113.0, 325.90317271896953)
+[18:32:58] [Server thread/INFO]: ShadowStar18 joined the game
+[18:33:03] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[18:33:03] [Server thread/INFO]: ShadowStar18 left the game
+[18:34:11] [Server thread/INFO]: Avocado5100 has made the advancement [A Seedy Place]
+[18:35:40] [User Authenticator #8/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[18:35:40] [Server thread/INFO]: ShadowStar18[/127.0.0.1:51004] logged in with entity id 25978 at (525.6626726236374, 113.0, 326.20636056876447)
+[18:35:40] [Server thread/INFO]: ShadowStar18 joined the game
+[18:35:54] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[18:35:54] [Server thread/INFO]: ShadowStar18 left the game
+[18:36:39] [User Authenticator #9/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[18:36:39] [Server thread/INFO]: ShadowStar18[/127.0.0.1:51120] logged in with entity id 26249 at (524.7421815322325, 113.0, 327.2525592969548)
+[18:36:39] [Server thread/INFO]: ShadowStar18 joined the game
+[18:36:44] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[18:36:44] [Server thread/INFO]: ShadowStar18 left the game
+[18:37:42] [User Authenticator #10/INFO]: UUID of player ShadowStar18 is e22a83e5-205b-49c9-b900-cc2e01d0e6df
+[18:37:43] [Server thread/INFO]: ShadowStar18[/127.0.0.1:51190] logged in with entity id 26644 at (524.7421815322325, 113.0, 327.2525592969548)
+[18:37:43] [Server thread/INFO]: ShadowStar18 joined the game
+[18:39:49] [Server thread/INFO]: Avocado5100 has made the advancement [The Parrots and the Bats]
+[18:41:19] [Server thread/INFO]: ShadowStar18 has made the advancement [Suit Up]
+[18:42:07] [Server thread/INFO]: Avocado5100 has made the advancement [Suit Up]
+[18:44:01] [Server thread/INFO]: Avocado5100 lost connection: Disconnected
+[18:44:01] [Server thread/INFO]: Avocado5100 left the game
+[18:45:40] [Server thread/INFO]: ShadowStar18 lost connection: Disconnected
+[18:45:40] [Server thread/INFO]: ShadowStar18 left the game
+[18:45:51] [Server thread/INFO]: Stopping the server
+[18:45:51] [Server thread/INFO]: Stopping server
+[18:45:51] [Server thread/INFO]: Saving players
+[18:45:51] [Server thread/INFO]: Saving worlds
+[18:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
